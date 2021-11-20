@@ -1,5 +1,11 @@
 [
   {
-    "package": "scp"
+    "package": "rWSBIM1207"
+  },
+  {
+    "package": "rWSBIM1322"
+  },
+  {
+    "package": "rWSBIM2122"
   }
 ]

@@ -1,10 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/uclouvain-cbio/universe
 	shallow = true
 	branch = HEAD
-[submodule "scp"]
-	path = scp
-	url = https://github.com/uclouvain-cbio/scp
+[submodule "rWSBIM1207"]
+	path = rWSBIM1207
+	url = https://github.com/UCLouvain-CBIO/rWSBIM1207
+	shallow = true
+	registered = true
+[submodule "rWSBIM1322"]
+	path = rWSBIM1322
+	url = https://github.com/UCLouvain-CBIO/rWSBIM1322
+	shallow = true
+	registered = true
+[submodule "rWSBIM2122"]
+	path = rWSBIM2122
+	url = https://github.com/UCLouvain-CBIO/rWSBIM2122
 	shallow = true
 	registered = true
